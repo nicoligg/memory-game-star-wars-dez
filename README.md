@@ -2,7 +2,7 @@
 December Automation Team Challenge: Memory Game
 
 ![Badge Complete](https://img.shields.io/badge/status-complete-blue)
-![Badge Release Date](https://img.shields.io/badge/release%20date-october-red)
+![Badge Release Date](https://img.shields.io/badge/release%20date-december-red)
 
 ![r2d2](https://assets.teenvogue.com/photos/572a3302321c4faf6ae8a317/16:9/w_2580,c_limit/R2SCREAM.gif)
 
