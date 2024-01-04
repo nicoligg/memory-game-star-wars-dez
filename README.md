@@ -16,19 +16,16 @@ Piano has the following features:
 
 1. *Card Matching:* In the "Memory Game: Star Wars," you are presented with a grid of cards. Each card contains an image of a character or element from the Star Wars franchise. Your goal is to match cards with identical images by flipping them over.
 
-2. *Timer:* The game includes a timer that keeps track of how long it takes you to complete it. Compete against the clock to test your memory skills.
-
-3. *Interactive Play:*  You can interact with the game in the following ways:
+2. *Interactive Play:*  You can interact with the game in the following ways:
 
 - Click on a card to flip it over and reveal the image.
 - Attempt to match two cards with the same image.
 - If the cards match, they remain face up; otherwise, they flip back over.
 - Click on 
 
-4. *Scoring:* Your performance is scored based on how quickly you can match all the cards. Challenge yourself to improve your memory and beat your previous scores.
+3. *Scoring:* Your performance is scored based on how quickly you can match all the cards. Challenge yourself to improve your memory and beat your previous scores.
 
-5. *Play with Music:* Start the game by clicking the "Play" button, and you'll be immediately immersed in the Star Wars universe with iconic background music. Feel like a true Jedi as you test your memory skills.
-
+4. *Play with Music:* Choose your favorite Stars Wars soundtrack from the song list.
 
 # *How to play:*
 Users can use the piano as follows:
